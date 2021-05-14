@@ -43,22 +43,23 @@ h1 {
 }
 
 footer {
-  float: bottom;
+  position: relative;
+  bottom: 0;
   background-color: #FF8552;
   color:#E6E6E6;
   width: 100%;
 }
 
 a:link {
-  color:#E6E6E6;
+  color:#297373;
 }
 
 a:visited {
-  color: #297373;
+  color: #1b4b4b;
 }
 
 a:hover {
-  color: #85ffc7;
+  color: #39393A;
 }
 
 ul {
